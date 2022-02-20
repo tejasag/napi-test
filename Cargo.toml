@@ -6,6 +6,9 @@ version = "0.0.0"
 [lib]
 crate-type = ["cdylib"]
 
+[target.x86_64-unknown-linux-musl]
+crt_static = false
+
 [dependencies]
 # Default enable napi4 feature, see https://nodejs.org/api/n-api.html#node-api-version-matrix
 napi = { version = "2.1.0", default-features = false, features = ["napi4", "tokio_rt"] }
@@ -15,4 +18,4 @@ napi-derive = "2.1.0"
 napi-build = "1.2.1"
 
 [profile.release]
-lto = true
+lto = false 
