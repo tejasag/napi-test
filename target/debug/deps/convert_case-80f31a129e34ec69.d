@@ -1,0 +1,11 @@
+/tmp/napi/tejasag-test/target/debug/deps/convert_case-80f31a129e34ec69.rmeta: /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/tmp/napi/tejasag-test/target/debug/deps/libconvert_case-80f31a129e34ec69.rlib: /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/tmp/napi/tejasag-test/target/debug/deps/convert_case-80f31a129e34ec69.d: /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs:
+/home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs:
+/home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs:
+/home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs:
+/home/tejasagarwal/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs:
